@@ -60,17 +60,6 @@ public class UsaPuntoPolares {
 		System.out.println(p1.polaresACadena());
 		
 	}
-a
-	b
-	c
-	d
-	e
-	f
-	g
-	r
-	t
-	h
-	s
-	q
+
 }
  eres una patata
