@@ -60,5 +60,5 @@ public class UsaPuntoPolares {
 		System.out.println(p1.polaresACadena());
 		
 	}
-Esta noche se cena patatas
+A la sombra de la sierra	
 }
