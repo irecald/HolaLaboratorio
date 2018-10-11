@@ -14,6 +14,7 @@ public class UsaPunto {
 		System.out.println("p2: (" + p2.getX() + "," + p2.getY() + ")");
 		System.out.println("distancia de p1 a p2:" + d);
 		system.out.println("dsffsd");
+		System.out.print("Otra cosa a ver si sale de diferente color");
 		
 	}
 }
